@@ -1,0 +1,2 @@
+第一步：在content文件夹下创建一个以avatars命名的文件夹
+第二步：打开header.php修改AUTHORIZE的内容(更改为您网站的域名)
